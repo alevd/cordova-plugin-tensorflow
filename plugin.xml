@@ -35,7 +35,7 @@
             </feature>
         </config-file>
 
-        <framework type='podspec' src='TensorflowPod' spec=":podspec => 'https://raw.githubusercontent.com/heigeo/TensorflowPod/master/TensorflowPod.podspec'"/>
+        <framework type='podspec' src='TensorflowPod' spec=":podspec => 'https://raw.githubusercontent.com/alevd/TensorflowPod/master/TensorflowPod.podspec'"/>
 
         <header-file src="src/ios/TensorFlow.h" />
         <source-file src="src/ios/TensorFlow.mm" compiler-flags="-std=gnu++11" />
